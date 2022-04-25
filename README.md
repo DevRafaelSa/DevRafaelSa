@@ -30,7 +30,7 @@
 ### 👋👋👋
 
 - 🔭 Trabalho na Fábrica de Software - Unipê.
-- 🌱 Atualmente estudo Java e Spring.
+- 🌱 Amante e entusiasta do POO, Java e Spring.
 - 😄 Pronouns: ele/dele.
 
   
