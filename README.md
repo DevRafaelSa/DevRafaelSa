@@ -32,7 +32,7 @@
 ### 👋👋👋
 
 - 🔭 Trabalho na Fábrica de Software - Unipê.
-- 🌱 Amante e entusiasta do POO, Ruby, Java e Spring.
+- 🌱 Amante e entusiasta de POO, Java, Spring e Ruby.
 - 😄 Pronouns: ele/dele.
 
   
