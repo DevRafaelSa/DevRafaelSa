@@ -31,7 +31,7 @@
 
 ### 👋👋👋
 
-- 🔭 Trabalho na Fábrica de Software - Unipê.
+- 🔭 Trabalho na Fábrica de Software
 - 🌱 Amante e entusiasta de POO, Java, Spring e Ruby.
 - 😄 Pronouns: ele/dele.
 
